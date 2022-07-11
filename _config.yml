@@ -7,12 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saurav Chennuri"
+title                    : "Fuck You! "
 title_separator          : "-"
-name                     : &name "Saurav Chennuri"
-description              : &description "I am currently a masters student at Boston University working to focus on Visual grounding and 
-applications. I am currently looking for an advisor to give me a good direction"
-url                      : https://saurav717.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Choi Clint"
+description              : &description "I am an Economics master."
+url                      : https://ClintChoi2048.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
